@@ -1,0 +1,4 @@
+blog
+====
+
+Simple Sinatra blog
